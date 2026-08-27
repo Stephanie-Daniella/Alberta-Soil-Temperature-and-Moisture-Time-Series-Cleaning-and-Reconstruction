@@ -1,6 +1,6 @@
-# Raw Data – Champion
+# Raw Data – Manning
 
-This folder contains the raw environmental sensor datasets collected at the **Champion** monitoring location and used in the capstone project.
+This folder contains the raw environmental sensor datasets collected at the **Manning** monitoring location and used in the capstone project.
 
 The folder contains four datasets, organized according to the environmental variables recorded by the monitoring station.
 
